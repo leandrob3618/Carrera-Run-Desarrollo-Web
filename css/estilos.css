@@ -17,8 +17,8 @@ body {
   grid-template-columns: 1fr, 1fr, 1fr;
   grid-template-rows: auto 1fr auto;
   grid-template-areas: "header header header"
- "main main main"
- "footer footer footer";
+"main main main"
+"footer footer footer";
   min-height: auto; }
 
 header {
@@ -265,8 +265,8 @@ footer {
     grid-template-columns: 1fr;
     grid-template-rows: auto 1fr auto;
     grid-template-areas: "header"
- "main"
- "footer"; }
+"main"
+"footer"; }
   main {
     min-height: auto; } }
 
