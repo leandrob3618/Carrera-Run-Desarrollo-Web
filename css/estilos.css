@@ -11,7 +11,7 @@
 body {
   font-family: 'Bebas Neue', sans-serif; }
 
-/*!-----CUERPO BODY----*/
+/*!-----CUERPO BODY-----*/
 .grid-contenedor {
   display: grid;
   grid-template-columns: 1fr, 1fr, 1fr;
